@@ -23,8 +23,8 @@ A simple stand-alone Python script to monitor Cosmos SDK-based blockchain nodes.
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/cosmos-node-monitor.git
-cd cosmos-node-monitor
+git clone https://github.com/ThamarD/cosmoschainguard.git
+cd cosmoschainguard
 ```
 
 ### 2. Install Dependencies
